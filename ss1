@@ -1,0 +1,4 @@
+s = 'abcdefg'
+print('s=',s)
+print('s[0:2] =', s[0:2]) #Characters between [0.1]
+print('s[s:5] =', s[2:5]) #Characters between [2,4]
